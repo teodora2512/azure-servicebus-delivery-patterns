@@ -1,0 +1,28 @@
+# .NET / C# build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Baze de date locale / secretes
+*.db
+*.sqlite
+appsettings.Development.json
